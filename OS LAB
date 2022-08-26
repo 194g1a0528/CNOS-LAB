@@ -1,0 +1,13 @@
+/*
+name of the experiment;
+Roll no:194g1a0528
+name:P.Divya
+*/
+//source code
+
+#include<stdio.h>
+int main()
+{
+   print("HELLO WORLD");
+   return 0;
+}
